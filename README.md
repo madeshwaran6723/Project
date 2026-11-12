@@ -1,4 +1,4 @@
-# Global Population & Socioeconomic Data Analysis
+# Global Population & Socio-economic Data Analysis
 
 A comprehensive data analysis project examining population demographics, economic indicators, and agricultural metrics across multiple countries using **SQL**, **Python (Pandas, Seaborn, Matplotlib)**, and **Power BI**.
 
