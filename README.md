@@ -24,7 +24,7 @@ A comprehensive data analysis project examining population demographics, economi
 
 - Data Visualization: Power BI
 
-- Environment: Google Colab / Jupyter Notebook
+- Environment: Google Colab / Jupyter Notebook / spyder
 
 
 1. SQL Exploratory Data Analysis (SQL/):
