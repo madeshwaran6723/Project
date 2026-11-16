@@ -116,6 +116,6 @@ Connect/Refresh Data Sources:
 
 ##  Author
 
-- Name: Maddy!
-- Username: Maddy5625
-- GitHub link:(https://github.com/Maddy5625/Project)
+- Name: Madeshwaran
+- Username: madeshwaran6723
+- GitHub link: (https://github.com/madeshwaran6723/Project)
